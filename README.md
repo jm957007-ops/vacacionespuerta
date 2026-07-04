@@ -28,7 +28,7 @@ service cloud.firestore {
 
 ## 2. Probar localmente (opcional pero recomendado)
 
-Necesitas tener Node.js instalado (https://nodejs.org).
+Necesitas tener Node.js instalado (https://nodejs.org)..
 
 ```bash
 npm install
