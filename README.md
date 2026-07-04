@@ -1,4 +1,4 @@
-# Vacaciones de Controladores de Puerta
+# Vacaciones de Controladores de Puerta.
 
 App para coordinar días de vacaciones del equipo sin que se empalmen. Los días ocupados se marcan en rojo, y solo el administrador puede agregar o eliminar compañeros.
 
